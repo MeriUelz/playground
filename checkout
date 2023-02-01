@@ -5,7 +5,9 @@
     <meta http-equiv=“X-UA-Compatible” content=“IE=edge”>
     <meta name=“viewport” content=“width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script defer src="https://uelzpay-widget-cdn.vercel.app/v0.0.4/uelz-widget.js?uelz-api-key=cla29uzup932901odujedri0m&uelz-api-url=https://widget.demo.uelzpay.com"></script>
 </head>
 <body>
+<button id="uelz-button" data-service-id="clc0ffwzg1382701l96ni2m9ab" >I Want It</button>
 </body>
 </html>
